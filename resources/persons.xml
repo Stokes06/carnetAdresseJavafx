@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<persons>
+    <person>
+        <birthday>1984-05-11</birthday>
+        <city>Lyon</city>
+        <firstName>test2</firstName>
+        <lastName>test2</lastName>
+        <postalCode>69005</postalCode>
+        <street>rue titi</street>
+    </person>
+    <person>
+        <birthday>1984-05-11</birthday>
+        <city>Lyon</city>
+        <firstName>Safinette</firstName>
+        <lastName>Midinette</lastName>
+        <postalCode>69005</postalCode>
+        <street>rue titi</street>
+    </person>
+    <person>
+        <birthday>1999-02-21</birthday>
+        <city>some city</city>
+        <firstName>Rabia</firstName>
+        <lastName>Fatoumata</lastName>
+        <postalCode>59650</postalCode>
+        <street>rue pasteur</street>
+    </person>
+    <person>
+        <birthday>1998-04-21</birthday>
+        <city>some city</city>
+        <firstName>Victor</firstName>
+        <lastName>Pichon</lastName>
+        <postalCode>59650</postalCode>
+        <street>rue lyon</street>
+    </person>
+    <person>
+        <birthday>1998-04-22</birthday>
+        <city>some city</city>
+        <firstName>Yes</firstName>
+        <lastName>Papa</lastName>
+        <postalCode>69650</postalCode>
+        <street>rue lyon</street>
+    </person>
+    <person>
+        <birthday>1998-04-22</birthday>
+        <city>some city</city>
+        <firstName>toutou</firstName>
+        <lastName>tapette</lastName>
+        <postalCode>69650</postalCode>
+        <street>rue lyon</street>
+    </person>
+    <person>
+        <birthday>1995-03-22</birthday>
+        <city>some city</city>
+        <firstName>good looking guy</firstName>
+        <lastName>victor</lastName>
+        <postalCode>69650</postalCode>
+        <street>rue lyon</street>
+    </person>
+</persons>

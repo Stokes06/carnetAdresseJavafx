@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="java-fx-exemple4-addressbook-withoutComments.jnlp">
+  <information>
+    <title>java-fx-exemple4-addressbook-withoutComments</title>
+    <vendor>safia.gharbi</vendor>
+    <description>AddressBookApp</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="java-fx-exemple4-addressbook-withoutComments.jar" size="20826" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="0" height="0" main-class="com.humanbooster.javafx.controller.MainApp"  name="AddressBookApp" />
+  <update check="background"/>
+</jnlp>
